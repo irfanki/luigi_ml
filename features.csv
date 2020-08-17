@@ -1,0 +1,856 @@
+,airline_sentiment,nearest_city
+0,positive,les Escaldes
+1,negative,Andorra la Vella
+2,neutral,Umm al Qaywayn
+3,negative,Ras al-Khaimah
+4,positive,Khawr Fakkān
+5,neutral,Dubai
+6,neutral,Dibba Al-Fujairah
+7,negative,Dibba Al-Hisn
+8,positive,Sharjah
+9,neutral,Ar Ruways
+10,negative,Al Fujayrah
+11,positive,Al Ain
+12,negative,Ajman
+13,neutral,Adh Dhayd
+14,positive,Abu Dhabi
+15,positive,Zaranj
+16,positive,Taloqan
+17,negative,Shīnḏanḏ
+18,negative,Shibirghān
+19,positive,Shahrak
+20,neutral,Sar-e Pul
+21,positive,Sang-e Chārak
+22,neutral,Aībak
+23,negative,Rustāq
+24,neutral,Qarqīn
+25,positive,Qarāwul
+26,neutral,Pul-e Khumrī
+27,neutral,Paghmān
+28,negative,Nahrīn
+29,positive,Maymana
+30,negative,Mehtar Lām
+31,neutral,Mazār-e Sharīf
+32,negative,Lashkar Gāh
+33,negative,Kushk
+34,negative,Kunduz
+35,negative,Khōst
+36,negative,Khulm
+37,negative,Khāsh
+38,negative,Khanabad
+39,negative,Karukh
+40,negative,Kandahār
+41,negative,Kabul
+42,negative,Jalālābād
+43,negative,Jabal os Saraj
+44,negative,Herāt
+45,positive,Ghormach
+46,negative,Ghazni
+47,negative,Gereshk
+48,positive,Gardez
+49,negative,Fayzabad
+50,neutral,Farah
+51,neutral,Kafir Qala
+52,negative,Charikar
+53,neutral,Baraki Barak
+54,negative,Bāmyān
+55,negative,Balkh
+56,neutral,Baghlān
+57,negative,Ārt Khwājah
+58,negative,Āsmār
+59,negative,Asadābād
+60,positive,Andkhōy
+61,negative,Bāzārak
+62,positive,Markaz-e Woluswalī-ye Āchīn
+63,negative,Saint John’s
+64,neutral,The Valley
+65,negative,Sarandë
+66,negative,Kukës
+67,negative,Korçë
+68,negative,Gjirokastër
+69,negative,Elbasan
+70,negative,Burrel
+71,negative,Vlorë
+72,negative,Tirana
+73,negative,Shkodër
+74,negative,Patos Fshat
+75,negative,Lushnjë
+76,negative,Lezhë
+77,negative,Laç
+78,negative,Kuçovë
+79,negative,Krujë
+80,positive,Kavajë
+81,negative,Fier-Çifçi
+82,negative,Fier
+83,negative,Durrës
+84,negative,Berat
+85,negative,Kapan
+86,negative,Goris
+87,negative,Hats’avan
+88,neutral,Artashat
+89,negative,Ararat
+90,negative,Yerevan
+91,neutral,Ejmiatsin
+92,negative,Step’anavan
+93,positive,Spitak
+94,negative,Sevan
+95,negative,Masis
+96,neutral,Vanadzor
+97,negative,Gavarr
+98,negative,Hrazdan
+99,negative,Armavir
+100,negative,Gyumri
+101,negative,Ashtarak
+102,neutral,Abovyan
+103,neutral,Saurimo
+104,negative,Lucapa
+105,negative,Luau
+106,negative,Uíge
+107,positive,Soio
+108,positive,Nzeto
+109,neutral,N’dalatando
+110,positive,Mbanza Congo
+111,negative,Malanje
+112,positive,Luanda
+113,positive,Caxito
+114,negative,Cabinda
+115,negative,Sumbe
+116,negative,Namibe
+117,negative,Menongue
+118,negative,Luena
+119,neutral,Lubango
+120,negative,Longonjo
+121,negative,Lobito
+122,negative,Cuito
+123,negative,Huambo
+124,negative,Catumbela
+125,negative,Catabola
+126,negative,Camacupa
+127,positive,Caluquembe
+128,positive,Caála
+129,negative,Benguela
+130,negative,Zárate
+131,negative,Villa Ortúzar
+132,neutral,Villa Ocampo
+133,negative,Villa Lugano
+134,negative,Villaguay
+135,negative,Villa Gesell
+136,neutral,Tigre
+137,negative,Tandil
+138,negative,San Vicente
+139,negative,Santo Tomé
+140,positive,Santa Elena
+141,neutral,San Pedro
+142,negative,San Luis del Palmar
+143,negative,San Lorenzo
+144,negative,San Javier
+145,negative,San Isidro
+146,negative,Saladas
+147,negative,Retiro
+148,negative,Resistencia
+149,negative,Reconquista
+150,positive,Quilmes
+151,negative,Puerto Rico
+152,negative,Puerto Iguazú
+153,positive,Puerto Esperanza
+154,negative,Puerto Eldorado
+155,negative,Posadas
+156,negative,Pontevedra
+157,negative,Pirané
+158,negative,Paso de los Libres
+159,negative,Oberá
+160,neutral,Necochea
+161,negative,Morón
+162,negative,Monte Caseros
+163,negative,Montecarlo
+164,negative,Mercedes
+165,negative,Mercedes
+166,negative,Mar del Plata
+167,neutral,Luján
+168,positive,La Plata
+169,negative,La Paz
+170,negative,Jardín América
+171,negative,Gualeguaychú
+172,neutral,Gualeguay
+173,negative,Goya
+174,negative,Gobernador Ingeniero Valentín Virasoro
+175,positive,General José de San Martín
+176,positive,Garupá
+177,positive,Formosa
+178,negative,Fontana
+179,positive,Federal
+180,positive,Esquina
+181,negative,El Soberbio
+182,negative,Dolores
+183,negative,Curuzú Cuatiá
+184,negative,Corrientes
+185,negative,Concordia
+186,negative,Concepción del Uruguay
+187,negative,Colegiales
+188,negative,Chajarí
+189,negative,Campana
+190,negative,Buenos Aires
+191,negative,Barranqueras
+192,negative,Azul
+193,positive,Avellaneda
+194,negative,Aristóbulo del Valle
+195,neutral,Zapala
+196,positive,Yerba Buena
+197,negative,Villa Regina
+198,negative,Villa Paula de Sarmiento
+199,negative,Villa Nueva
+200,positive,Villa María
+201,negative,Villa Dolores
+202,negative,Villa Constitución
+203,positive,Villa Carlos Paz
+204,positive,Villa Ángela
+205,negative,Villa Allende
+206,neutral,Viedma
+207,negative,Victoria
+208,negative,Vera
+209,neutral,Venado Tuerto
+210,negative,Veinticinco de Mayo
+211,neutral,Ushuaia
+212,negative,Unquillo
+213,positive,Tres Isletas
+214,negative,Tres Arroyos
+215,negative,Trelew
+216,neutral,Termas de Río Hondo
+217,negative,Tartagal
+218,positive,Tafí Viejo
+219,negative,Sunchales
+220,neutral,Santo Tomé
+221,positive,Santiago del Estero
+222,negative,Santa Rosa
+223,neutral,Santa Lucía
+224,negative,Santa Fe de la Vera Cruz
+225,negative,San Salvador de Jujuy
+226,neutral,San Ramón de la Nueva Orán
+227,negative,San Rafael
+228,negative,San Pedro
+229,negative,San Nicolás de los Arroyos
+230,negative,San Miguel de Tucumán
+231,neutral,San Martín de los Andes
+232,neutral,San Martín
+233,negative,San Luis
+234,positive,San Justo
+235,negative,San Juan
+236,negative,San José de Jáchal
+237,negative,San Jorge
+238,negative,San Francisco
+239,negative,San Fernando del Valle de Catamarca
+240,negative,San Antonio Oeste
+241,negative,Salta
+242,positive,Rufino
+243,negative,Rosario
+244,negative,Río Tercero
+245,positive,Río Segundo
+246,neutral,Río Gallegos
+247,neutral,Río Cuarto
+248,negative,Río Ceballos
+249,negative,Rawson
+250,neutral,Rafaela
+251,negative,Quitilipi
+252,neutral,Punta Alta
+253,negative,Puerto Madryn
+254,neutral,Presidencia Roque Sáenz Peña
+255,neutral,Pocito
+256,positive,Plottier
+257,negative,Pergamino
+258,neutral,Pérez
+259,negative,Paraná
+260,negative,Palpalá
+261,negative,Olavarría
+262,negative,Nueve de Julio
+263,negative,Neuquén
+264,neutral,Morteros
+265,negative,Monteros
+266,negative,Mendoza
+267,negative,Marcos Juárez
+268,negative,Machagai
+269,negative,Lincoln
+270,negative,Libertador General San Martín
+271,negative,Las Breñas
+272,negative,La Rioja
+273,negative,La Falda
+274,negative,La Calera
+275,negative,Laboulaye
+276,negative,Junín
+277,positive,Joaquín V. González
+278,negative,Jesús María
+279,negative,Granadero Baigorria
+280,positive,Gobernador Gálvez
+281,negative,General Villegas
+282,negative,General Roca
+283,negative,General Pinedo
+284,positive,General Pico
+285,neutral,General Enrique Mosconi
+286,negative,Gálvez
+287,negative,Firmat
+288,negative,Famaillá
+289,negative,Esquel
+290,negative,Esperanza
+291,neutral,Embarcación
+292,neutral,Embalse
+293,negative,El Bolsón
+294,positive,Diamante
+295,negative,Deán Funes
+296,negative,Cutral-Có
+297,positive,Cruz del Eje
+298,negative,Crespo
+299,neutral,Cosquín
+300,negative,Coronel Suárez
+301,negative,Coronda
+302,negative,Córdoba
+303,positive,Comodoro Rivadavia
+304,negative,Cipolletti
+305,negative,Cinco Saltos
+306,negative,Chivilcoy
+307,negative,Chimbas
+308,positive,Chilecito
+309,negative,Charata
+310,neutral,Chacabuco
+311,positive,Centenario
+312,negative,Caucete
+313,neutral,Catriel
+314,positive,Castelli
+315,negative,Casilda
+316,negative,Carcarañá
+317,negative,Capitán Bermúdez
+318,positive,Cañada de Gómez
+319,negative,Caleta Olivia
+320,positive,Bell Ville
+321,positive,Bella Vista
+322,positive,Bahía Blanca
+323,negative,Arroyo Seco
+324,positive,Arroyito
+325,positive,Añatuya
+326,neutral,Alta Gracia
+327,negative,Allen
+328,negative,Alderetes
+329,positive,Albardón
+330,neutral,Aguilares
+331,neutral,Villa Santa Rita
+332,negative,Villa Mercedes
+333,positive,San Carlos de Bariloche
+334,negative,Adrogué
+335,negative,Pago Pago
+336,positive,Wolfsberg
+337,neutral,Wiener Neustadt
+338,negative,Vienna
+339,positive,Wels
+340,negative,Weinzierl bei Krems
+341,negative,Villach
+342,negative,Traun
+343,negative,Traiskirchen
+344,negative,Ternitz
+345,neutral,Steyr
+346,negative,Spittal an der Drau
+347,negative,Schwechat
+348,negative,Sankt Pölten
+349,negative,Salzburg
+350,neutral,Saalfelden am Steinernen Meer
+351,negative,Mödling
+352,negative,Lustenau
+353,negative,Linz
+354,negative,Leonding
+355,negative,Leoben
+356,negative,Kufstein
+357,negative,Krems an der Donau
+358,neutral,Klosterneuburg
+359,negative,Klagenfurt am Wörthersee
+360,neutral,Kapfenberg
+361,negative,Innsbruck
+362,positive,Hallein
+363,neutral,Graz
+364,negative,Feldkirch
+365,positive,Dornbirn
+366,positive,Bregenz
+367,positive,Braunau am Inn
+368,negative,Baden
+369,negative,Amstetten
+370,neutral,Ansfelden
+371,negative,Whyalla
+372,neutral,Rockingham
+373,positive,Prospect
+374,positive,Port Hedland
+375,negative,Perth
+376,negative,Murray Bridge
+377,negative,Mount Isa
+378,negative,Morphett Vale
+379,negative,Mandurah
+380,negative,Kwinana
+381,neutral,Kalgoorlie
+382,positive,Gosnells
+383,negative,Geraldton
+384,negative,Gawler
+385,negative,Fremantle
+386,negative,Darwin
+387,neutral,Busselton
+388,negative,Bunbury
+389,neutral,Armadale
+390,negative,Alice Springs
+391,positive,Albany
+392,negative,Adelaide
+393,negative,Woodridge
+394,positive,Wodonga
+395,neutral,Werribee
+396,neutral,Warrnambool
+397,neutral,Wantirna South
+398,negative,Wangaratta
+399,negative,Wagga Wagga
+400,negative,Traralgon
+401,positive,Townsville
+402,positive,Toowoomba
+403,positive,Thornbury
+404,negative,Thomastown
+405,negative,Tarneit
+406,negative,Taree
+407,positive,Tamworth
+408,positive,Sydney
+409,negative,Surfers Paradise
+410,neutral,Sunnybank
+411,neutral,Sunbury
+412,positive,Port Stephens
+413,neutral,Springvale
+414,positive,Southport
+415,negative,South Grafton
+416,negative,Shepparton
+417,negative,Seaford
+418,neutral,Saint Kilda
+419,negative,Saint Albans
+420,negative,Rowville
+421,positive,Rockhampton
+422,positive,Richmond
+423,negative,Reservoir
+424,negative,Queanbeyan
+425,neutral,Quakers Hill
+426,negative,Preston
+427,negative,Port Macquarie
+428,negative,Point Cook
+429,negative,Pakenham South
+430,negative,Orange
+431,positive,Nowra
+432,positive,Northcote
+433,negative,Noble Park
+434,positive,Newcastle
+435,positive,Nerang
+436,negative,Narre Warren
+437,negative,Narangba
+438,neutral,Mulgrave
+439,neutral,Mount Martha
+440,neutral,Mount Gambier
+441,positive,Mount Eliza
+442,neutral,Mosman
+443,positive,Mornington
+444,negative,Morayfield
+445,neutral,Moe
+446,neutral,Mill Park
+447,neutral,Mildura
+448,negative,Melton
+449,positive,Melbourne
+450,negative,Maryborough
+451,negative,Marrickville
+452,neutral,Maroubra
+453,positive,Maitland
+454,positive,Mackay
+455,positive,Liverpool
+456,positive,Lismore
+457,neutral,Lilydale
+458,negative,Launceston
+459,neutral,Lara
+460,negative,Langwarrin
+461,negative,Lalor
+462,neutral,Keysborough
+463,negative,Kew
+464,positive,Katoomba
+465,neutral,Hornsby
+466,negative,Hobart
+467,negative,Hawthorn South
+468,positive,Hampton Park
+469,negative,Griffith
+470,negative,Greensborough
+471,neutral,Granville
+472,negative,Goulburn
+473,negative,Gold Coast
+474,neutral,Glenroy
+475,negative,Glenferrie
+476,negative,Gladstone
+477,negative,Geelong
+478,neutral,Frankston East
+479,negative,Frankston
+480,negative,Forster
+481,negative,Essendon
+482,positive,Epping
+483,negative,Epping
+484,negative,Engadine
+485,positive,Eltham
+486,negative,Echuca
+487,negative,Earlwood
+488,positive,Dubbo
+489,neutral,Doncaster East
+490,positive,Doncaster
+491,negative,Devonport
+492,negative,Deer Park
+493,neutral,Deception Bay
+494,negative,Dandenong
+495,positive,Cronulla
+496,positive,Cranbourne
+497,negative,Cranbourne
+498,positive,Craigieburn
+499,negative,Coffs Harbour
+500,negative,Coburg
+501,neutral,Clayton
+502,negative,Wollongong
+503,positive,Cessnock
+504,neutral,Castle Hill
+505,neutral,Carrum Downs
+506,neutral,Carnegie
+507,positive,Carlingford
+508,negative,Caringbah
+509,negative,Canberra
+510,negative,Camberwell
+511,negative,Caloundra
+512,neutral,Cairns
+513,neutral,Caboolture
+514,positive,Burnie
+515,neutral,Bundaberg
+516,negative,Buderim
+517,negative,Brunswick
+518,negative,Broken Hill
+519,negative,Brisbane
+520,negative,Boronia
+521,positive,Blacktown
+522,negative,Berwick
+523,negative,Bendigo
+524,neutral,Baulkham Hills
+525,negative,Bathurst
+526,negative,Banora Point
+527,positive,Bankstown
+528,negative,Ballarat
+529,negative,Auburn
+530,negative,Ashfield
+531,negative,Armidale
+532,neutral,Albury
+533,positive,South Brisbane
+534,negative,Cheltenham
+535,negative,Randwick
+536,negative,Dee Why
+537,negative,Umina
+538,neutral,Palmerston
+539,negative,Bracken Ridge
+540,negative,North Ryde
+541,negative,Hoppers Crossing
+542,negative,Logan City
+543,neutral,Carindale
+544,negative,Paramatta
+545,negative,Ferntree Gully
+546,positive,City of Parramatta
+547,positive,Adelaide Hills
+548,positive,Canning Vale
+549,positive,Glenmore Park
+550,negative,Glen Iris
+551,negative,Balwyn North
+552,negative,Malvern East
+553,negative,Brighton East
+554,negative,Booval
+555,neutral,St Albans
+556,negative,Endeavour Hills
+557,neutral,Taylors Lakes
+558,neutral,Roxburgh Park
+559,positive,Wyndham Vale
+560,positive,Willetton
+561,negative,Thornlie
+562,positive,Hillside
+563,negative,Bundoora
+564,negative,Forest Lake
+565,negative,Sunnybank Hills
+566,positive,Narre Warren South
+567,neutral,Dandenong North
+568,neutral,Frankston South
+569,negative,Sunshine West
+570,negative,Altona Meadows
+571,negative,West Pennant
+572,negative,Oranjestad
+573,negative,Mariehamn
+574,negative,Xankandi
+575,negative,Əhmədbəyli
+576,negative,Shushi
+577,neutral,Salyan
+578,negative,Saatlı
+579,negative,Neftçala
+580,negative,Nakhchivan
+581,negative,Lankaran
+582,negative,Imishli
+583,negative,Fizuli
+584,negative,Dzhalilabad
+585,negative,Pushkino
+586,negative,Beylagan
+587,negative,Astara
+588,negative,Şirvan
+589,negative,Ağdam
+590,negative,Zaqatala
+591,negative,Zabrat
+592,negative,Yevlakh
+593,negative,Yelenendorf
+594,negative,Xaçmaz
+595,negative,Ujar
+596,neutral,Terter
+597,negative,Sumqayıt
+598,neutral,Qaraçuxur
+599,negative,Shamkhor
+600,negative,Shamakhi
+601,negative,Sheki
+602,negative,Sabunçu
+603,negative,Sabirabad
+604,negative,Qusar
+605,negative,Quba
+606,negative,Hacıqabul
+607,negative,Qazax
+608,negative,Hacı Zeynalabdin
+609,negative,Mingelchaur
+610,negative,Maştağa
+611,negative,Mardakan
+612,negative,Lökbatan
+613,negative,Kyurdarmir
+614,negative,Khirdalan
+615,negative,Yeni Suraxanı
+616,negative,Geoktschai
+617,negative,Hövsan
+618,negative,Ganja
+619,negative,Divichibazar
+620,negative,Buzovna
+621,negative,Biny Selo
+622,negative,Barda
+623,negative,Bilajari
+624,negative,Baku
+625,negative,Amirdzhan
+626,negative,Aghsu
+627,positive,Ağdaş
+628,negative,Agdzhabedy
+629,negative,Bakıxanov
+630,positive,Zenica
+631,negative,Visoko
+632,negative,Velika Kladuša
+633,negative,Tuzla
+634,negative,Trebinje
+635,negative,Travnik
+636,neutral,Sarajevo
+637,negative,Prijedor
+638,neutral,Mostar
+639,negative,Gradačac
+640,negative,Gračanica
+641,negative,Goražde
+642,negative,Doboj
+643,negative,Cazin
+644,negative,Bugojno
+645,negative,Brčko
+646,negative,Bosanska Krupa
+647,negative,Bijeljina
+648,negative,Bihać
+649,negative,Banja Luka
+650,neutral,Konjic
+651,positive,Bridgetown
+652,negative,Thākurgaon
+653,negative,Teknāf
+654,negative,Tungi
+655,negative,Sylhet
+656,positive,Dohār
+657,neutral,Jamālpur
+658,positive,Shibganj
+659,negative,Shibganj
+660,negative,Sātkhira
+661,negative,Sirajganj
+662,positive,Netrakona
+663,positive,Narsingdi
+664,negative,Sandwīp
+665,negative,Shāhzādpur
+666,negative,Rāmganj
+667,positive,Rājshāhi
+668,negative,Pirojpur
+669,negative,Panchagarh
+670,negative,Patiya
+671,negative,Parbatipur
+672,negative,Nārāyanganj
+673,negative,Nālchiti
+674,negative,Nāgarpur
+675,negative,Nageswari
+676,negative,Mymensingh
+677,positive,Muktāgācha
+678,negative,Mirzāpur
+679,negative,Maulavi Bāzār
+680,negative,Morrelgonj
+681,negative,Mehendiganj
+682,positive,Mathba
+683,negative,Lalmanirhat
+684,negative,Lākshām
+685,positive,Comilla
+686,negative,Rangpur
+687,positive,Kushtia
+688,neutral,Kālīganj
+689,negative,Jhingergācha
+690,negative,Joypur Hāt
+691,negative,Ishurdi
+692,negative,Habiganj
+693,negative,Gaurnadi
+694,negative,Gafargaon
+695,positive,Feni
+696,neutral,Rāipur
+697,negative,Sarankhola
+698,negative,Dhaka
+699,negative,Chilmāri
+700,negative,Chhāgalnāiya
+701,negative,Lālmohan
+702,neutral,Khagrachhari
+703,negative,Chhātak
+704,negative,Bhātpāra Abhaynagar
+705,positive,Bherāmāra
+706,negative,Bhairab Bāzār
+707,negative,Bāndarban
+708,neutral,Kālia
+709,positive,Baniachang
+710,negative,Bājitpur
+711,negative,Bagerhat
+712,negative,Badarganj
+713,negative,Narail
+714,neutral,Tungipāra
+715,negative,Sonārgaon
+716,negative,Sarishābāri
+717,negative,Sakhipur
+718,positive,Raojān
+719,negative,Phultala
+720,negative,Pālang
+721,negative,Pār Naogaon
+722,neutral,Nabīnagar
+723,positive,Lakshmīpur
+724,positive,Kesabpur
+725,negative,Hājīganj
+726,negative,Farīdpur
+727,negative,Dinājpur
+728,negative,Uttar Char Fasson
+729,negative,Chittagong
+730,negative,Char Bhadrāsan
+731,negative,Bera
+732,negative,Burhānuddin
+733,negative,Sātkania
+734,negative,Cox’s Bāzār
+735,negative,Khulna
+736,negative,Bhola
+737,negative,Barisāl
+738,negative,Jessore
+739,negative,Pābna
+740,negative,Tāngāil
+741,negative,Bogra
+742,negative,Pīrgaaj
+743,negative,Nawābganj
+744,positive,Mādārīpur
+745,negative,Sherpur
+746,negative,Kishorganj
+747,neutral,Manikchari
+748,positive,Bhāndāria
+749,negative,Fatikchari
+750,negative,Saidpur
+751,negative,Puthia
+752,negative,Natore
+753,negative,Azimpur
+754,neutral,Paltan
+755,negative,Zwijndrecht
+756,negative,Zwevegem
+757,neutral,Zottegem
+758,neutral,Zonhoven
+759,negative,Zoersel
+760,positive,Zemst
+761,negative,Zele
+762,negative,Zedelgem
+763,negative,Zaventem
+764,negative,Wuustwezel
+765,negative,Willebroek
+766,negative,Wevelgem
+767,neutral,Wetteren
+768,negative,Westerlo
+769,negative,Wervik
+770,negative,Wavre
+771,negative,Waterloo
+772,negative,Waregem
+773,negative,Walcourt
+774,negative,Visé
+775,negative,Vilvoorde
+776,negative,Verviers
+777,negative,Turnhout
+778,neutral,Tubize
+779,negative,Tournai
+780,negative,Torhout
+781,negative,Tongeren
+782,negative,Tienen
+783,negative,Tielt
+784,negative,Tessenderlo
+785,negative,Tervuren
+786,negative,Temse
+787,negative,Stekene
+788,negative,Stabroek
+789,negative,Soumagne
+790,negative,Soignies
+791,negative,Sint-Truiden
+792,negative,Sint-Pieters-Leeuw
+793,negative,Sint-Niklaas
+794,neutral,Sint-Kruis
+795,negative,Sint-Katelijne-Waver
+796,negative,Sint-Gillis-Waas
+797,positive,Sint-Genesius-Rode
+798,neutral,Seraing
+799,negative,Schoten
+800,neutral,Schilde
+801,positive,Saint-Nicolas
+802,negative,Saint-Ghislain
+803,positive,Rotselaar
+804,positive,Ronse
+805,negative,Roeselare
+806,negative,Rixensart
+807,negative,Riemst
+808,negative,Ranst
+809,neutral,Quaregnon
+810,negative,Puurs
+811,negative,Putte
+812,positive,Poperinge
+813,negative,Pont-à-Celles
+814,negative,Péruwelz
+815,negative,Peer
+816,neutral,Overijse
+817,negative,Oupeye
+818,positive,Oudenaarde
+819,negative,Oostkamp
+820,negative,Ostend
+821,negative,Nivelles
+822,negative,Ninove
+823,positive,Nijlen
+824,negative,Neerpelt
+825,negative,Namur
+826,negative,Mouscron
+827,negative,Mortsel
+828,negative,Morlanwelz-Mariemont
+829,negative,Mons
+830,negative,Mol
+831,negative,Middelkerke
+832,negative,Merelbeke
+833,negative,Menen
+834,positive,Meise
+835,negative,Mechelen
+836,negative,Marche-en-Famenne
+837,positive,Manage
+838,negative,Maldegem
+839,negative,Maasmechelen
+840,negative,Maaseik
+841,positive,Louvain-la-Neuve
+842,negative,Londerzeel
+843,positive,Lommel
+844,positive,Lokeren
+845,negative,Lochristi
+846,negative,Lille
+847,negative,Lier
+848,negative,Liège
+849,negative,Leuven
+850,negative,Lessines
+851,negative,Lede
+852,negative,Lebbeke
+853,negative,Lanaken
+854,positive,La Louvière
