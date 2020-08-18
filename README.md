@@ -67,4 +67,4 @@ classifier and score using the model.  The pipeline should have these steps:
 ## References
 
  * Luigi package: `http://luigi.readthedocs.io/en/stable/`
- * https://www.youtube.com/watch?v=RCdms8eGid8&t=1229s
+																																																																																																									 * https://www.youtube.com/watch?v=RCdms8eGid8&t=1229s
